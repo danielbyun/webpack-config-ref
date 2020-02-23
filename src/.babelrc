@@ -1,0 +1,4 @@
+// tells babel what it needs to transpile down to
+{
+  "presets": ["@babel/preset-env", "@babel/preset-react"]
+}
